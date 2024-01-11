@@ -1,5 +1,5 @@
 # Visionary-Sign-Detector
-
+![U-Net Architecture with VGG Backbone](https://github.com/akash6murali/visionary-sign-detector/blob/main/asset/processed_video.gif)
 ## Introduction
 In this project, we leveraged the comprehensive Cityscapes Dataset to focus on a crucial aspect of autonomous driving systems - traffic sign recognition and interpretation. Our objective was to develop a system that not only accurately identifies traffic signs in urban scenes but also provides a clear understanding of their meaning, which is essential for any effective Autonomous Driving Assistant System (ADAS).
 
@@ -45,6 +45,11 @@ In summary, Gemini AI elevates our project from mere detection to intelligent in
 - **Combination Benefits**: The integration directs Gemini AI's interpretive power to precisely the segmented traffic signs by YOLOv8.
 - **Enhanced Accuracy**: This synergy results in detailed and contextually accurate interpretations of traffic signs.
 - **Improved Decision-Making**: The combination enhances the decision-making process in our Autonomous Driving Assistant System (ADAS).
+
+Sample Input:
+![U-Net Architecture with VGG Backbone](https://github.com/akash6murali/visionary-sign-detector/blob/main/asset/frame_26.jpg)
+Sample Final Result:
+![U-Net Architecture with VGG Backbone](https://github.com/akash6murali/visionary-sign-detector/blob/main/asset/frame_26_batch_2_0.jpg)
 
 ## Major Achievements
 - **Exceptional Accuracy in Traffic Sign Segmentation**: The precision of the YOLOv8 model, coupled with its tailored adaptation for traffic sign segmentation, has resulted in exceptional accuracy. This is especially crucial in the complex and varied environments typical of urban settings. Our model's ability to discern and accurately interpret traffic signs greatly enhances the reliability of the ADAS in navigating safely through these challenging scenarios.
