@@ -87,6 +87,7 @@ By incorporating these two approaches – Hybrid Model Development, and NLP-Enha
     client-app
 11. if you were able to successfully execute all this commands you can see the output in the path mentioned in step 10.
 12. ******ONE IMPORTANT STEP********: you need to generate your own API from here: [API docs](https://deepmind.google/technologies/gemini/#build-with-gemini) and place it in the config.py file in the client-app to access google's gemini vision model.
+
 Thank you for your interest in this project, and we look forward to your contributions to this repository.
 
 ## Conclusion:
